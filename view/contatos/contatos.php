@@ -9,7 +9,7 @@
 
     	<div id="cadastro">
         	
-            <form name="frmcontatos" method="post" action="cadastro.php">
+            <form name="frmcontatos" method="post" action="router.php?controller=contatos&modo=inserir">
             
                 <table id="tblcadastro">
                   <tr>
