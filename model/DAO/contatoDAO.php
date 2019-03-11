@@ -24,5 +24,10 @@
         public function selectAll(){
 
         }
+        //buscar registro pelo ID
+        public function selectbyID(){
+
+        }
+        
     }
 ?>
